@@ -8,7 +8,7 @@ public class EmailSenderAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmailSenderAppApplication.class, args);
-		System.out.println("Anish is Creating a Project");
+		System.out.println("Anish is Creating a Project ");
 	}
 
 }
